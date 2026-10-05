@@ -20,6 +20,13 @@
 > Today's Quote : The best error message is the one that never shows up!!
 
 
+> [!NOTE]
+> Here you will find all the important notes.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
