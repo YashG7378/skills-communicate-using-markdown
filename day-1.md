@@ -26,6 +26,18 @@
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks of certain actions for which we need to be careful.
+
+@Yash :+1: This looks good for the Github training! :wave:
+
+
 
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
