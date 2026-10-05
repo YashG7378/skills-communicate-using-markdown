@@ -6,6 +6,20 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
+<details open>
+<summary>My top languages to use in GITHUB</summary>
+
+| Rank | *Languages* |
+|-----:|-----------|
+|     1| **Scratch**   |
+|     2| **Python**    |
+|     3| **Java**      |
+</details>
+
+---
+> Today's Quote : The best error message is the one that never shows up!!
+
+
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
