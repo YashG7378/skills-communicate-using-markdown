@@ -56,10 +56,12 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ### Session-7
 -----------------
 <!-- How to Enter URL's  -->
-
+###### How to Enter URL
 Visit https://github.com
 
+
 <!-- How to Enter Flowchart using Code Block -->
+###### How to Enter Flowchart
 
 ```mermaid
 flowchart TD
@@ -70,6 +72,7 @@ flowchart TD
 ```
 
 <!-- How to Use Mathematical Expressions -->
+###### How to Enter Mathematical Expression
 
 **To Display Mathematical Expression**
 
