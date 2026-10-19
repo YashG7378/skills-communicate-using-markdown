@@ -59,11 +59,12 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 
 Visit https://github.com
 
+<!-- How to Enter Flowchart using Code Block -->
 
 ```mermaid
-flowchart TD
-    A --> B
-    A --> C
-    B --> D
+flowchart GITHUB
+    A[main Branch] --> B[Feature Branch]
+    A --> C[Bugfix Branch]
+    B --> D[Pull Request & Merge]
     C --> D
 ```
