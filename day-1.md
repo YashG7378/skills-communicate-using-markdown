@@ -68,3 +68,11 @@ flowchart TD
     B --> D[Pull Request & Merge]
     C --> D
 ```
+
+<!-- How to Use Mathematical Expressions -->
+
+**To Display Mathematical Expression**
+
+$$
+\sqrt{3x-1}+(1+x)^2
+$$
