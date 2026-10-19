@@ -63,8 +63,8 @@ Visit https://github.com
 
 ```mermaid
 flowchart GITHUB
-    [main Branch] --> [Feature Branch]
-    A --> [Bugfix Branch]
-    B --> [Pull Request & Merge]
-    C --> D
+    MainBranch --> FeatureBranch
+    MainBranch --> BugfixBranch
+    FeatureBranch --> PullRequest&Merge
+    BugfixBranch --> PullRequest&Merge
 ```
