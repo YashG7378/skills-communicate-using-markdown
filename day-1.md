@@ -62,7 +62,7 @@ Visit https://github.com
 <!-- How to Enter Flowchart using Code Block -->
 
 ```mermaid
-flowchart GITHUB
+flowchart TD
     MainBranch --> FeatureBranch
     MainBranch --> BugfixBranch
     FeatureBranch --> PullRequest&Merge
