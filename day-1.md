@@ -68,3 +68,11 @@ flowchart TD
     FeatureBranch --> PullRequest&Merge
     BugfixBranch --> PullRequest&Merge
 ```
+
+```mermaid
+flowchart TD
+    A[main Branch] --> B[Feature Branch]
+    A --> C[Bugfix Branch]
+    B --> D[Pull Request & Merge]
+    C --> D
+```
