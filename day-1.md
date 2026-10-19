@@ -63,14 +63,6 @@ Visit https://github.com
 
 ```mermaid
 flowchart TD
-    MainBranch --> FeatureBranch
-    MainBranch --> BugfixBranch
-    FeatureBranch --> PullRequest&Merge
-    BugfixBranch --> PullRequest&Merge
-```
-
-```mermaid
-flowchart TD
     A[main Branch] --> B[Feature Branch]
     A --> C[Bugfix Branch]
     B --> D[Pull Request & Merge]
